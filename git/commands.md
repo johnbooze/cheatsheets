@@ -1,4 +1,5 @@
 Command | Description
+--- | ---
 pull | Pull down latest changes
 status | Shows what branch you're on and the status of files
 gui | Open a graphical interface for git actions
