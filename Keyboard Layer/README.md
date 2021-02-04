@@ -1,8 +1,14 @@
+[TouchCursor website](http://martin-stone.github.io/touchcursor/)
+
+[TouchCursor GitHub](https://github.com/martin-stone/touchcursor)
+
+Settings file located under: `C:\Users\<user>\AppData\Roaming\TouchCursor\settings.cfg`
+
 Key | Binding
 --- | ---
 , | Ctrl + Page Down
 . | Ctrl + W
-; | Back
+; | Backspace
 4 | Alt + F4
 A | Ctrl + A
 C | Ctrl + C
